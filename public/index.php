@@ -1,3 +1,8 @@
+<?php
+header("Location: https://mattstauffer.com", TRUE, 301);
+exit();
+
+
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
